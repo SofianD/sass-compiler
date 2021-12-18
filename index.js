@@ -107,5 +107,5 @@ function compile(userOptions = undefined) {
 
 module.exports = {
   server,
-  compiler
+  compile
 };
